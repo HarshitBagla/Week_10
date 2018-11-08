@@ -7,3 +7,6 @@ Fork the repository and fix the delete functionality
 
 # Attendance
 https://goo.gl/forms/mqRUscovuB97uN5m2
+
+# Absence form
+https://goo.gl/forms/reU3uNwKSBgGUX1j2. 
